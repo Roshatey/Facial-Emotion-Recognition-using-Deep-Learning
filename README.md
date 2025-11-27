@@ -2,6 +2,7 @@
 
 This project aims to classify the emotion on a person's face into one of seven categories using deep convolutional neural networks (CNNs). 
 The model is trained on the FER-2013 dataset, published at the International Conference on Machine Learning (ICML).
+
 The dataset contains 35,887 grayscale images of size 48x48 pixels, labeled with seven emotions:
   - Angry
   - Disgusted
