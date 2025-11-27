@@ -2,7 +2,7 @@
 
 This project aims to classify the emotion on a person's face into one of seven categories using deep convolutional neural networks (CNNs). 
 The model is trained on the FER-2013 dataset, published at the International Conference on Machine Learning (ICML).
-## The dataset contains 35,887 grayscale images of size 48x48 pixels, labeled with seven emotions:
+The dataset contains 35,887 grayscale images of size 48x48 pixels, labeled with seven emotions:
   - Angry
   - Disgusted
   - Fearful
@@ -57,5 +57,6 @@ This implementation by default detects emotions on all faces in the webcam feed.
 To install the required packages:
 ```bash
 pip install -r requirements.txt
-```<img width="1500" height="500" alt="accuracy" src="https://github.com/user-attachments/assets/014e11b0-819b-4b8e-88fd-d3c14b29c5ca" />
+```
+<img width="1500" height="500" alt="accuracy" src="https://github.com/user-attachments/assets/014e11b0-819b-4b8e-88fd-d3c14b29c5ca" />
 
